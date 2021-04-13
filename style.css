@@ -34,7 +34,7 @@ header{
     justify-content: center;
     align-items: center;
     background-color: #FDFDFD;
-
+    padding-top:12%;
 }
 
 .row{
@@ -43,7 +43,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    
 }
 
 header h2{
